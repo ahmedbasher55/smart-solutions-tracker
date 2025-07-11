@@ -1,0 +1,1 @@
+document.getElementById("root").innerHTML = '<h1 style="text-align:center;margin-top:40vh">📊 مشروع Smart Solutions – المتابعة قيد التشغيل</h1>';
